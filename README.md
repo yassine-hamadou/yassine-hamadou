@@ -23,7 +23,7 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
   <a href="https://github.com/yassine-hamadou/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<img align="right" alt="GIF" src="./programmer.gif" width="350" />
+<img align="right" alt="GIF" src="./3205038E-65EF-44C7-9C49-E32A575613E4.gif" width="350" />
 
 ## ️ Languages and tools
 
