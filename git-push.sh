@@ -1,7 +1,6 @@
-echo "Enter your commit message"
-read message
+node index.js
 git add .
-git commit -m "${message}"
+git commit -m "Bug fixes"
 if [ -n "$(git status --porcelain)" ];
 then
  echo "IT IS CLEAN"
