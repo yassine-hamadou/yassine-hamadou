@@ -1,21 +1,21 @@
 {
-  "name": "blessingdev233",
+  "name": "Yassine-Hamadou",
   "version": "1.0.0",
-  "description": "![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Blessingdev233%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62) ### Hi, there 👋, my name is `` ### Today is",
+  "description": "![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=yassine-hamadou%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62) ### Hi, there 👋, my name is `` ### Today is",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blessingdev233/blessingdev233.git"
+    "url": "git+https://github.com/yassine-hamadou/yassine-hamadou.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Blessingdev233/blessingdev233/issues"
+    "url": "https://github.com/yassine-hamadou/yassine-hamadou/issues"
   },
-  "homepage": "https://github.com/Blessingdev233/blessingdev233#readme",
+  "homepage": "https://github.com/yassine-hamadou/yassine-hamadou#readme",
   "dependencies": {
     "dotenv": "^16.0.2",
     "got": "^12.4.1",
