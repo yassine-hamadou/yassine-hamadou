@@ -1,3 +1,6 @@
+#Add commit message
+#echo "Enter commit message"
+#read commitMessage
 node index.js
 git add .
 git commit -m "Bug fixes"
