@@ -1,5 +1,5 @@
 <!--
-**yassine-hamadou/yassine-hamadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yassine-hamadou/yassine-hamadou** is a ✨ _special_ ✨ repository because its `README2.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

@@ -1,13 +1,26 @@
+<!--
+**yassine-hamadou/yassine-hamadou** is a ✨ _special_ ✨ repository because its `README2.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=YassDevWorld%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
-### Hi there 👋, my name is `{{name}}`
-### Last Seen 👀 {{date}}
+### Hi there 👋, my name is `Yassine Hamadou Mounkaila`
 
 Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm open to learn and explore new technologies that exist out there on this planet.
 - 🔭 I’m currently working on Engineer and Planners ERP system at SIPConsult
 - ⚡ Fun fact: I'm a weirdo who loves to learn new things and explore new technologies.
 
 <p align="center">
-    <a href="https://github.com/yassine-hamadou/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <a href="https://github.com/yassine-hamadou/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20The%20more%20you%20know;The%20more%20you%20realize;you%20don't%20know&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <img align="right" alt="GIF" src="./programmer.gif" width="350" />
@@ -23,33 +36,33 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/#)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yassine)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yassine/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yassine)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yassinehamadou)
-
+   
 
 ### My GitHub Stats:
 
-<details>
-    <summary><b>⚡ Github Stats</b></summary>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-    <br />
-
-    [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yassine-hamadou&theme=radical)](https://github.com/yassine-hamadou/github-readme-stats)
+  <br />  
+  
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yassine-hamadou&theme=radical)](https://github.com/yassine-hamadou/github-readme-stats)
 </details>
 
-<details>
-    <summary><b>☄️ Github Streaks</b></summary>
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
-    <br />
-
-    ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yassine-hamadou&theme=react)
+  <br />
+  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yassine-hamadou&theme=react)  
 </details>
-
-![Profile views](https://gpvc.arturio.dev/yassine-hamadou)
+  
+![Profile views](https://gpvc.arturio.dev/yassine-hamadou) 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&descAlignY=51&descAlign=62)
