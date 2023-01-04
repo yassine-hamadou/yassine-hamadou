@@ -43,11 +43,7 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassine-hamadou&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </details>
  
-    <summary><b>☄️ Github Streaks</b></summary>
-
-    <br />
-
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-hamadou&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+     
 
 ![Profile views](https://gpvc.arturio.dev/yassine-hamadou)
 
