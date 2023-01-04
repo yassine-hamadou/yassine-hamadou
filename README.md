@@ -40,7 +40,7 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
 
     <br />
 
-    [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yassine-hamadou&theme=radical)](https://github.com/yassine-hamadou/github-readme-stats)
+    ![My Github Stats][(https://github-readme-stats.vercel.app/api?username=yassine-hamadou&theme=radical)](https://github.com/yassine-hamadou/github-readme-stats)
 </details>
 
 <details>
