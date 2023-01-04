@@ -21,6 +21,7 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/></code>
 <code><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"/></code>
+
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/></code>
@@ -30,15 +31,15 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yassine)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yassine/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yassine)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yassinehamadou)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yassinehamadou) 
+ 
 
-
+      
 ### 🔥 My Stats:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-hamadou&layout=compact&theme=vision-friendly-dark)](https://github.com/yassine-hamadou/github-readme-stats)
 <details>
     <summary><b> 🌠 Github Stats</b></summary>
-
-    <br />
 
     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassine-hamadou&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </details>
