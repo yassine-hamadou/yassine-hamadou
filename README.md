@@ -37,12 +37,9 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
       
 ### 🔥 My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-hamadou&layout=compact&theme=vision-friendly-dark)](https://github.com/yassine-hamadou/github-readme-stats)
-<details>
-    <summary><b> 🌠 Github Stats</b></summary>
-
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassine-hamadou&theme=merko&hide_border=true)](https://git.io/streak-stats)
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-hamadou&layout=compact&theme=vision-friendly-dark)](https://github.com/yassine-hamadou/github-readme-stats)  
+ <br />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassine-hamadou&theme=merko&hide_border=true)](https://git.io/streak-stats)
  
      
 
