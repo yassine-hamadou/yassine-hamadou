@@ -33,14 +33,14 @@ Passion driven tech addict from Niger, who currently lives in Accra, Ghana. I'm 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yassinehamadou)
 
 
-### My GitHub Stats:
+### 🔥 My Stats:
 
 <details>
-    <summary><b>⚡ Github Stats</b></summary>
+    <summary><b> 🌠 Github Stats</b></summary>
 
     <br />
 
-    [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yassine-hamadou&theme=radical)](https://github.com/yassine-hamadou/github-readme-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yassine-hamadou&theme=merko&hide_border=true)](https://git.io/streak-stats)
 </details>
  
     <summary><b>☄️ Github Streaks</b></summary>
