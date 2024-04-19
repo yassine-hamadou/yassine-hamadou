@@ -36,9 +36,6 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 <a  href="https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile" target="_blank">
 [![StackOverflow Badge](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile) 
 </a>
-<a  href="https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile" target="_blank">
-[![StackOverflow Badge](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile) 
-</a>
 
       
 ### 🔥 My Stats:
