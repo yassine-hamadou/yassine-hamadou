@@ -27,15 +27,7 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40"/></code>
 
 
-<a  href="https://www.linkedin.com/yassine-hamadou/" target="_blank">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-hamadou)
-</a>
-<a  href="https://www.twitter.com/yassinehamadou2/" target="_blank">
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yassinehamadou2)
-</a>
-<a  href="https://www.instagram.com/yassinehamadou1/" target="_blank">
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yassinehamadou1/)
-</a>
+
 <a  href="https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile" target="_blank">
 [![StackOverflow Badge](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile) 
 </a>
