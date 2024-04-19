@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=YassDevWorld%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20world%20of%20endless%20learning%20adventure!&descAlignY=53&descAlign=62)
-### Hi there 👋, my name is `Yassine Hamadou Mounkaila`
+### Hi there 👋, my name is `Yassine H.M`
 ### Last Seen 👀 Sunday, 5 November at 12:21 UTC
 
 Passion-driven tech addict. Open to learn and explore new technologies that exist out there.
@@ -31,7 +31,9 @@ Passion-driven tech addict. Open to learn and explore new technologies that exis
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yassine/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yassine)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/yassinehamadou) 
-
+<a target="_blank">
+[![StackOverflow Badge](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10930925/yassine-hamadou?tab=profile) 
+</a>
 
       
 ### 🔥 My Stats:
